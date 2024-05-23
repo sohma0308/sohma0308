@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a commerce student studying in VIPs. Trying to understand how does GitHub & programming works
+
 <!--
 **sohma0308/sohma0308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
